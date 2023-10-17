@@ -6,8 +6,11 @@ function App() {
     <div className="App">
       <h1>CS 230L</h1>
       <h2>Section-002</h2>
-      <p>WVUI ID:800395463</p>
+      <p>WVU ID:800395463</p> 
       <p>Hi I am Dominic</p>
+      
+
+
     </div>
   );
 }
